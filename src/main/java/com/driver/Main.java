@@ -18,7 +18,7 @@ public class Main {
         int b=p.product(3,3,10);
         double c=p.product(2.3,3.9);
 
-        System.out.println((a+" "+" "+b+" "+c);
+        System.out.println(a+" "+b+" "+c);
     }
 
 }
